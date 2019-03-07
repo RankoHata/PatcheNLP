@@ -15,7 +15,7 @@ setup(
     maintainer_email='san332627946@gmail.com',
     license=' GNU General Public License v3',
     packages = find_packages(),
-    include_package_data=True,
+    package_data={'': ['data/*/*', 'model/*/*']},
     platforms=['all'],
     url='https://github.com/RankoHata/PatcheNLP',
     classifiers=[
