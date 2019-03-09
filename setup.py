@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='PatcheNLP',
-    version='0.0.4',
+    version='0.0.5',
     description='Some tools for NLP.',
     author='RankoHata',
     author_email='san332627946@gmail.com',

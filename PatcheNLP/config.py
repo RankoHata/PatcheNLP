@@ -11,6 +11,7 @@ data_dir = os.path.join(base_dir, 'data')
 
 cut_data_dir = os.path.join(data_dir, 'cut')
 pos_tagging_data_dir = os.path.join(data_dir, 'pos_tagging')
+stop_words_data_dir = os.path.join(data_dir, 'stop_words')
 
 # 模型目录
 model_dir = os.path.join(base_dir, 'model')
